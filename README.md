@@ -3,5 +3,4 @@ A Python Terminal based contact Directory that stores data in a json file. You a
 
 # installation
 Require python 3.
-use command "python --FILE PATH--/contact_book.py" 
-All records are stored in 'data.json' file.
+use command "python --FILE PATH--/contact_book.py".
